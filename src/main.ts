@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {
   bootstrapApplication,
   provideNativeScriptHttpClient,
@@ -29,3 +30,11 @@ runNativeScriptAngularApp({
     });
   },
 });
+=======
+import { bootstrapApplication } from '@angular/platform-browser';
+import { appConfig } from './app/app.config';
+import { AppComponent } from './app/app.component';
+
+bootstrapApplication(AppComponent, appConfig)
+  .catch((err) => console.error(err));
+>>>>>>> 0ef477eeedc6c23ffdd1b1a44fb4b7cbb5ea6a26

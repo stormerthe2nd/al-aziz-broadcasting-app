@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NativeScript
 hooks/
 node_modules/
@@ -19,6 +20,29 @@ yarn-error.log*
 .project
 tmp/
 typings/
+=======
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+>>>>>>> 0ef477eeedc6c23ffdd1b1a44fb4b7cbb5ea6a26
 
 # Visual Studio Code
 .vscode/*
@@ -26,3 +50,20 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+<<<<<<< HEAD
+=======
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+>>>>>>> 0ef477eeedc6c23ffdd1b1a44fb4b7cbb5ea6a26
