@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084115789482",
+    "project_id": "al-aziz-broadcasting",
+    "storage_bucket": "al-aziz-broadcasting.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084115789482:android:96208023e919cbce0a52d3",
+        "android_client_info": {
+          "package_name": "com.al_aziz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rAFeNDL1WNsnxtYULIOqCtUWOkmBq4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
